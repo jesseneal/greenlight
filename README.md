@@ -1,2 +1,2 @@
 # greenlight
-This is a Movid DB API 
+This is a Movie DB API 
